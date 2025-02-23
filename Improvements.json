@@ -1,1 +1,10 @@
-
+{
+    "Trade Route": {
+        "buildTime": 1,
+        "movementCost": 0.5,
+        "yield": {
+            "gold": 2
+        },
+        "graphics": "Images/golden_line"
+    }
+}
