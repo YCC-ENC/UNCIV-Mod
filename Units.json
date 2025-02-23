@@ -1,1 +1,16 @@
-
+{
+    "Trader": {
+        "movement": 3,
+        "vision": 2,
+        "cost": 50,
+        "requiredTech": "Trade",
+        "actions": ["Establish Trade Route"]
+    },
+    "Trade Ship": {
+        "movement": 4,
+        "vision": 3,
+        "cost": 75,
+        "requiredTech": "Sailing",
+        "actions": ["Establish Trade Route"]
+    }
+}
